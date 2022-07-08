@@ -3,3 +3,5 @@
 ![](./FloatRun.png)
 ![](./StartUp.jpg)
 ![](./dotfiles.jpg)
+![](./startuplog.png)
+![](./startuplog-removebg.png)
