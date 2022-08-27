@@ -5,3 +5,4 @@
 ![](./dotfiles.jpg)
 ![](./startuplogo.png)
 ![](./startuplogo-removebg.png)
+![](./neovim-show.png)
