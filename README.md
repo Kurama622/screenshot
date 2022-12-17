@@ -9,3 +9,4 @@
 ![](./ChoiceNode.gif)
 ![](./visual.gif)
 ![](./DynamicNode.gif)
+![](./autotrig.gif)
