@@ -6,3 +6,6 @@
 ![](./startuplogo.png)
 ![](./startuplogo-removebg.png)
 ![](./neovim-show.png)
+![](./ChoiceNode.gif)
+![](./visual.gif)
+![](./DynamicNode.gif)
