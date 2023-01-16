@@ -10,3 +10,4 @@
 ![](./visual.gif)
 ![](./DynamicNode.gif)
 ![](./autotrig.gif)
+![](./startup-history-files.png)
