@@ -11,3 +11,5 @@
 ![](./DynamicNode.gif)
 ![](./autotrig.gif)
 ![](./startup-history-files.png)
+![](./FloatRunToggle.gif)
+![](./FloatTermToggle.gif.gif)
