@@ -13,3 +13,4 @@
 ![](./startup-history-files.png)
 ![](./FloatRunToggle.gif)
 ![](./FloatTermToggle.gif)
+![](./startup/startup-ivy.png)
