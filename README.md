@@ -1,3 +1,4 @@
+[https://freecompress.com/zh-cn/compress-image][https://freecompress.com/zh-cn/compress-image] compress rate: 80%
 ![nvim-lua](./nvim-lua.png)
 ![nvim-debug](./nvim-debug.png)
 ![FloatRun](./FloatRun.png)
