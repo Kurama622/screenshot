@@ -19,4 +19,4 @@
 ![llm-chat](./llm/llm-chat-compress.png)
 ![llm-translate](./llm/llm-translate-compress.png)
 ![llm-explain-code](./llm/llm-explain-code-compress.png)
-![llm-logo](./llm/llm.svg)
+![llm-logo](./llm/llm-logo.png)
