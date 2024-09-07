@@ -20,3 +20,4 @@
 ![llm-translate](./llm/llm-translate-compress.png)
 ![llm-explain-code](./llm/llm-explain-code-compress.png)
 ![llm-logo](./llm/llm-logo.png)
+![llm-logo-purple](./llm/llm-logo-purple.png)
