@@ -21,3 +21,4 @@
 ![llm-explain-code](./llm/llm-explain-code-compress.png)
 ![llm-logo](./llm/llm-logo.png)
 ![llm-logo-purple](./llm/llm-logo-purple.png)
+![llm-logo-light-purple](./llm/llm-logo-light-purple.png)
