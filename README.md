@@ -19,6 +19,8 @@
 ![llm-chat](./llm/llm-chat-compress.png)
 ![llm-translate](./llm/llm-translate-compress.png)
 ![llm-explain-code](./llm/llm-explain-code-compress.png)
+![llm-optimize-code](./llm/llm-optimize-code-compress.png)
+![llm-trans](./llm/llm-trans-compress.png)
 ![llm-logo](./llm/llm-logo.png)
 ![llm-logo-purple](./llm/llm-logo-purple.png)
 ![llm-logo-light-purple](./llm/llm-logo-light-purple.png)
