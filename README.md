@@ -24,4 +24,4 @@
 ![llm-logo](./llm/llm-logo.png)
 ![llm-logo-purple](./llm/llm-logo-purple.png)
 ![llm-logo-light-purple](./llm/llm-logo-light-purple.png)
-![llm-optim-gpt](./llm/llm-optim-gpt-compress.jpg)
+![llm-optim-gpt](./llm/llm-optim-gpt-compress.png)
